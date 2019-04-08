@@ -1,1 +1,2 @@
-message:Hello World From Spring Config Server!!!
+---
+message: Hello World From Spring Config Server!!!
