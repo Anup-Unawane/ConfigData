@@ -1,2 +1,15 @@
 ---
 message: Hello World From Spring Config Server!!!
+
+greetings: Hello World From Config Server
+
+list:
+    values: one,two,three,four
+
+#properties for configuration beans 
+db:
+  connection: database-connection-url-from-config-server
+  user: leon
+  password: lion
+  maxConnections: 50
+  port: 1522
