@@ -1,3 +1,4 @@
+#File name without extention must match with spring.application.name in application.yml file of a microsercice
 ---
 message: Hello World From Spring Config Server!!!
 
