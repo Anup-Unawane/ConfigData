@@ -2,7 +2,7 @@
 ---
 message: Hello World From Spring Config Server!!!
 
-greetings: Hello World From Config Server
+greetings: Updated Hello World From Config Server...
 
 list:
     values: one,two,three,four
