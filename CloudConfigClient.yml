@@ -2,7 +2,7 @@
 ---
 message: Hello World From Spring Config Server!!!
 
-greetings: Hppy New Year From Config Server
+greetings: Happy New Year From Config Server
 
 list:
     values: one,two,three,four
